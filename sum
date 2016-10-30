@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+require_relative "../lib/suming.rb"
+puts "Hello There: Please Enter Your number"
+num1=gets.strip
+puts "Hello There: Please Enter Your second number"
+num2=gets.strip
+w=num1.to_i
+t=num2.to_i
+sum(w,t)
