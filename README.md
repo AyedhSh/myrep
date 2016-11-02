@@ -1,3 +1,3 @@
 #The other file for summation
 #This program print "Hello"
-the Two will merge
+the Two will mergegit
